@@ -1,0 +1,65 @@
+body
+{
+    background-color: rgb(250, 225, 143);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-style: inherit;
+
+    font-weight: 600;
+    padding: 20px;
+}
+
+div
+{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+h1
+{
+    text-align:center
+    
+}
+
+.btn-1
+{
+    font-weight: 20;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    padding-left: 10px;
+    height: 60px;
+    width: 60px;
+    cursor: pointer;
+    background-color: rgb(207, 204, 204);
+}
+
+.btn-2
+{
+    font-weight: 20;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    padding-left: 10px;
+    height: 60px;
+    width: 60px;
+    cursor: pointer;
+    background-color: rgb(194, 188, 188);
+}
+
+.btn-3
+{
+    font-weight: 20;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    padding-left: 10px;
+    height: 60px;
+    width: 60px;
+    cursor: pointer;
+    background-color: rgb(194, 188, 188);
+}
+
+
+.option:hover
+{
+background-color: black;
+cursor: pointer;
+}
